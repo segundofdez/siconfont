@@ -1,6 +1,6 @@
 {
   "name": "siconfont",
-  "version": "0.1.0",
+  "version": "v0.1.1",
   "homepage": "http://segundofdez.com/siconfont",
   "authors": [
     "Segundo Fdez <http://segundofdez.com>",
@@ -14,8 +14,5 @@
     "font-face",
     "webfont"
   ],
-  "license": "SIL Open Font license",
-  "ignore": [
-    ".gitignore"
-  ]
+  "license": "SIL Open Font license"
 }
