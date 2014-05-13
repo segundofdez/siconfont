@@ -1,0 +1,21 @@
+{
+  "name": "siconfont",
+  "version": "0.1.0",
+  "homepage": "http://segundofdez.com/siconfont",
+  "authors": [
+    "Segundo Fdez <http://segundofdez.com>",
+    "Sond3 <http://sond3.com>"
+ 	],
+ 	"description": "Siconfont is an icon font designed for all-purpose to use on the web under SIL Open Font license.",
+  "keywords": [
+    "icons",
+    "fonts",
+    "css",
+    "font-face",
+    "webfont"
+  ],
+  "license": "SIL Open Font license",
+  "ignore": [
+    ".gitignore"
+  ]
+}
