@@ -3,7 +3,7 @@
 *
 * @description Class name to use siconfont
 *
-* @version 0.1.4
+* @version 0.1.5
 *
 * @License MIT License
 *
@@ -440,6 +440,9 @@ DEALINGS IN THE SOFTWARE.
 .sicon-sound-off:before{
   content: '\F25F';
 }
+.sicon-sound-silence:before{
+  content: '\F260';
+}
 
 /*
   USER INTERFACE ICONS
@@ -538,6 +541,9 @@ DEALINGS IN THE SOFTWARE.
 .sicon-down:before{
   content: '\F2AA';
 }
+.sicon-calendar:before{
+  content: '\F2AB';
+}
 
 /*
   SOCIAL ICONS
@@ -582,3 +588,14 @@ DEALINGS IN THE SOFTWARE.
 .sicon-social-codepen:before{
   content: '\F2EB';
 }
+.sicon-social-face-s:before{
+  content: '\F2EC';
+}
+.sicon-social-gplus-s:before{
+  content: '\F2ED';
+}
+.sicon-social-soundcloud:before{
+  content: '\F2EE';
+}
+
+
