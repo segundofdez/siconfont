@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg>
 <metadata>
-Created by FontForge 20120731 at Sun Jun  8 22:41:06 2014
+Created by FontForge 20120731 at Wed Jun 18 22:37:01 2014
  By segun
 Copyright (c) 2014 by Segundo Fdez. All rights reserved.
 </metadata>
@@ -17,8 +17,8 @@ Copyright (c) 2014 by Segundo Fdez. All rights reserved.
     ascent="750"
     descent="-250"
     bbox="-1 -251 1002 793"
-    underline-thickness="50"
-    underline-position="-50"
+    underline-thickness="0"
+    underline-position="10"
     unicode-range="U+000D-F2EE"
   />
 <missing-glyph horiz-adv-x="500" 
