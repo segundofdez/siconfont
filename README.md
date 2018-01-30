@@ -12,7 +12,7 @@ Download the latest stable version of siconfont or install with [bower](http://b
     $ bower install siconfont
 
 
-##License
+## License
 
 - Siconfont is licensed under the SIL OFL 1.1:
   - http://scripts.sil.org/OFL
